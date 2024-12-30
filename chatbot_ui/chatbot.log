@@ -1,0 +1,389 @@
+2024-12-28 10:35:03,447 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 10:35:03,447 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 10:35:03,451 - INFO -  * Restarting with stat
+2024-12-28 10:35:04,521 - WARNING -  * Debugger is active!
+2024-12-28 10:35:04,530 - INFO -  * Debugger PIN: 138-403-800
+2024-12-28 10:35:59,580 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 10:35:59,580 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 10:35:59,584 - INFO -  * Restarting with stat
+2024-12-28 10:36:00,263 - WARNING -  * Debugger is active!
+2024-12-28 10:36:00,263 - INFO -  * Debugger PIN: 138-403-800
+2024-12-28 10:36:27,598 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 10:36:27,598 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 10:36:27,598 - INFO -  * Restarting with stat
+2024-12-28 10:36:28,340 - WARNING -  * Debugger is active!
+2024-12-28 10:36:28,340 - INFO -  * Debugger PIN: 138-403-800
+2024-12-28 10:37:39,131 - INFO - 127.0.0.1 - - [28/Dec/2024 10:37:39] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-28 10:37:39,410 - INFO - 127.0.0.1 - - [28/Dec/2024 10:37:39] "POST /api/login HTTP/1.1" 200 -
+2024-12-28 10:43:44,480 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 10:43:44,480 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 10:43:44,485 - INFO -  * Restarting with stat
+2024-12-28 10:43:45,189 - WARNING -  * Debugger is active!
+2024-12-28 10:43:45,189 - INFO -  * Debugger PIN: 138-403-800
+2024-12-28 10:44:06,842 - INFO - 127.0.0.1 - - [28/Dec/2024 10:44:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-28 10:44:08,111 - INFO - 127.0.0.1 - - [28/Dec/2024 10:44:08] "GET / HTTP/1.1" 200 -
+2024-12-28 10:44:09,142 - INFO - 127.0.0.1 - - [28/Dec/2024 10:44:09] "GET / HTTP/1.1" 200 -
+2024-12-28 10:44:09,692 - INFO - 127.0.0.1 - - [28/Dec/2024 10:44:09] "GET / HTTP/1.1" 200 -
+2024-12-28 10:44:10,200 - INFO - 127.0.0.1 - - [28/Dec/2024 10:44:10] "GET / HTTP/1.1" 200 -
+2024-12-28 10:44:57,114 - INFO - 127.0.0.1 - - [28/Dec/2024 10:44:57] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-28 10:44:57,145 - INFO - 127.0.0.1 - - [28/Dec/2024 10:44:57] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2024-12-28 10:47:33,340 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 10:47:33,340 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 10:48:33,235 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 10:48:33,235 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 10:48:33,239 - INFO -  * Restarting with stat
+2024-12-28 10:48:34,048 - WARNING -  * Debugger is active!
+2024-12-28 10:48:34,054 - INFO -  * Debugger PIN: 138-403-800
+2024-12-28 21:43:28,358 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 21:43:28,358 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 21:43:28,362 - INFO -  * Restarting with stat
+2024-12-28 21:43:29,185 - WARNING -  * Debugger is active!
+2024-12-28 21:43:29,185 - INFO -  * Debugger PIN: 138-403-800
+2024-12-28 21:46:10,687 - INFO - 127.0.0.1 - - [28/Dec/2024 21:46:10] "GET / HTTP/1.1" 200 -
+2024-12-28 21:46:10,741 - INFO - 127.0.0.1 - - [28/Dec/2024 21:46:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-28 21:48:24,008 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-28 21:48:24,178 - INFO -  * Restarting with stat
+2024-12-28 21:48:40,632 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 21:48:40,632 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 21:48:40,632 - INFO -  * Restarting with stat
+2024-12-28 21:48:41,277 - WARNING -  * Debugger is active!
+2024-12-28 21:48:41,296 - INFO -  * Debugger PIN: 138-403-800
+2024-12-28 21:48:51,515 - INFO - 127.0.0.1 - - [28/Dec/2024 21:48:51] "GET / HTTP/1.1" 200 -
+2024-12-28 21:50:09,778 - INFO - 127.0.0.1 - - [28/Dec/2024 21:50:09] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-28 21:50:10,103 - INFO - 127.0.0.1 - - [28/Dec/2024 21:50:10] "POST /api/login HTTP/1.1" 200 -
+2024-12-28 21:56:56,311 - INFO - 127.0.0.1 - - [28/Dec/2024 21:56:56] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-28 21:56:56,316 - INFO - 127.0.0.1 - - [28/Dec/2024 21:56:56] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2024-12-28 21:58:09,639 - INFO - 127.0.0.1 - - [28/Dec/2024 21:58:09] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-28 21:58:09,645 - INFO - 127.0.0.1 - - [28/Dec/2024 21:58:09] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-28 21:58:09,656 - INFO - 127.0.0.1 - - [28/Dec/2024 21:58:09] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2024-12-28 21:58:09,660 - INFO - 127.0.0.1 - - [28/Dec/2024 21:58:09] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2024-12-28 23:11:25,081 - INFO - 127.0.0.1 - - [28/Dec/2024 23:11:25] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-28 23:11:25,341 - INFO - 127.0.0.1 - - [28/Dec/2024 23:11:25] "[31m[1mPOST /chat HTTP/1.1[0m" 400 -
+2024-12-28 23:14:41,562 - INFO - 127.0.0.1 - - [28/Dec/2024 23:14:41] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-28 23:14:41,836 - INFO - 127.0.0.1 - - [28/Dec/2024 23:14:41] "[31m[1mPOST /chat HTTP/1.1[0m" 400 -
+2024-12-28 23:16:39,843 - INFO - 127.0.0.1 - - [28/Dec/2024 23:16:39] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-28 23:16:40,109 - INFO - 127.0.0.1 - - [28/Dec/2024 23:16:40] "[31m[1mPOST /chat HTTP/1.1[0m" 400 -
+2024-12-28 23:19:34,085 - INFO - 127.0.0.1 - - [28/Dec/2024 23:19:34] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-28 23:19:34,327 - INFO - 127.0.0.1 - - [28/Dec/2024 23:19:34] "[31m[1mPOST /chat HTTP/1.1[0m" 400 -
+2024-12-29 00:37:30,869 - INFO - 127.0.0.1 - - [29/Dec/2024 00:37:30] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-29 00:37:31,127 - INFO - 127.0.0.1 - - [29/Dec/2024 00:37:31] "[31m[1mPOST /chat HTTP/1.1[0m" 400 -
+2024-12-29 01:52:52,347 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-29 01:52:52,347 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-29 01:52:52,347 - INFO -  * Restarting with stat
+2024-12-29 01:52:53,147 - WARNING -  * Debugger is active!
+2024-12-29 01:52:53,153 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 01:52:58,712 - INFO - 127.0.0.1 - - [29/Dec/2024 01:52:58] "GET / HTTP/1.1" 200 -
+2024-12-29 01:58:15,345 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-29 01:58:15,345 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-29 01:58:15,350 - INFO -  * Restarting with stat
+2024-12-29 01:58:16,350 - WARNING -  * Debugger is active!
+2024-12-29 01:58:16,358 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 01:58:26,971 - INFO - 127.0.0.1 - - [29/Dec/2024 01:58:26] "GET / HTTP/1.1" 200 -
+2024-12-29 11:16:07,867 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-29 11:16:07,867 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-29 11:16:07,875 - INFO -  * Restarting with stat
+2024-12-29 11:16:08,915 - WARNING -  * Debugger is active!
+2024-12-29 11:16:08,923 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 11:16:14,070 - INFO - 127.0.0.1 - - [29/Dec/2024 11:16:14] "GET / HTTP/1.1" 200 -
+2024-12-29 11:16:14,180 - INFO - 127.0.0.1 - - [29/Dec/2024 11:16:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-29 11:32:24,077 - INFO - 127.0.0.1 - - [29/Dec/2024 11:32:24] "GET /products HTTP/1.1" 200 -
+2024-12-29 14:09:51,033 - INFO - 127.0.0.1 - - [29/Dec/2024 14:09:51] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-29 14:09:51,401 - INFO - 127.0.0.1 - - [29/Dec/2024 14:09:51] "POST /api/login HTTP/1.1" 200 -
+2024-12-29 16:52:19,327 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-29 16:52:19,583 - INFO -  * Restarting with stat
+2024-12-29 16:52:20,954 - WARNING -  * Debugger is active!
+2024-12-29 16:52:20,962 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 16:52:25,971 - INFO - 127.0.0.1 - - [29/Dec/2024 16:52:25] "GET / HTTP/1.1" 200 -
+2024-12-29 16:53:12,990 - INFO - 127.0.0.1 - - [29/Dec/2024 16:53:12] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-29 16:53:13,300 - INFO - 127.0.0.1 - - [29/Dec/2024 16:53:13] "POST /api/login HTTP/1.1" 200 -
+2024-12-29 17:02:43,899 - INFO - 127.0.0.1 - - [29/Dec/2024 17:02:43] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-29 17:02:44,151 - INFO - 127.0.0.1 - - [29/Dec/2024 17:02:44] "[31m[1mPOST /chat HTTP/1.1[0m" 400 -
+2024-12-29 17:23:01,066 - INFO - 127.0.0.1 - - [29/Dec/2024 17:23:01] "GET / HTTP/1.1" 200 -
+2024-12-29 17:24:13,583 - INFO - 127.0.0.1 - - [29/Dec/2024 17:24:13] "[33mGET /search?query=electronics HTTP/1.1[0m" 404 -
+2024-12-29 17:25:16,136 - INFO - 127.0.0.1 - - [29/Dec/2024 17:25:16] "GET /products HTTP/1.1" 200 -
+2024-12-29 17:26:30,224 - INFO - 127.0.0.1 - - [29/Dec/2024 17:26:30] "[33mGET /search?query=electronics HTTP/1.1[0m" 404 -
+2024-12-29 17:27:27,066 - INFO - 127.0.0.1 - - [29/Dec/2024 17:27:27] "[33mGET /search?query=electronics HTTP/1.1[0m" 404 -
+2024-12-29 17:32:06,376 - INFO - 127.0.0.1 - - [29/Dec/2024 17:32:06] "[31m[1mPOST /chat HTTP/1.1[0m" 401 -
+2024-12-29 17:32:48,446 - INFO - 127.0.0.1 - - [29/Dec/2024 17:32:48] "POST /chat HTTP/1.1" 200 -
+2024-12-29 18:31:38,979 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-29 18:31:38,979 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-29 18:31:38,979 - INFO -  * Restarting with stat
+2024-12-29 18:31:40,019 - WARNING -  * Debugger is active!
+2024-12-29 18:31:40,028 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 18:31:43,269 - INFO - 127.0.0.1 - - [29/Dec/2024 18:31:43] "GET / HTTP/1.1" 200 -
+2024-12-29 18:32:31,653 - INFO - 127.0.0.1 - - [29/Dec/2024 18:32:31] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-29 18:32:31,999 - INFO - 127.0.0.1 - - [29/Dec/2024 18:32:31] "POST /api/login HTTP/1.1" 200 -
+2024-12-29 18:36:10,611 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-29 18:36:10,760 - INFO -  * Restarting with stat
+2024-12-29 18:36:11,647 - WARNING -  * Debugger is active!
+2024-12-29 18:36:11,647 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 18:38:35,763 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-29 18:38:35,901 - INFO -  * Restarting with stat
+2024-12-29 18:38:36,770 - WARNING -  * Debugger is active!
+2024-12-29 18:38:36,778 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 18:47:57,821 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-29 18:47:57,959 - INFO -  * Restarting with stat
+2024-12-29 18:48:47,226 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-29 18:48:47,228 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-29 18:48:47,229 - INFO -  * Restarting with stat
+2024-12-29 18:48:47,852 - WARNING -  * Debugger is active!
+2024-12-29 18:48:47,856 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 18:49:27,942 - INFO - 127.0.0.1 - - [29/Dec/2024 18:49:27] "GET / HTTP/1.1" 200 -
+2024-12-29 18:49:28,829 - INFO - 127.0.0.1 - - [29/Dec/2024 18:49:28] "GET / HTTP/1.1" 200 -
+2024-12-29 18:49:39,192 - INFO - 127.0.0.1 - - [29/Dec/2024 18:49:39] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-29 18:49:39,390 - INFO - Session created: 5abbcbfd-e8c7-4915-b339-1b658dcbbba3 for user: 1
+2024-12-29 18:49:39,391 - INFO - 127.0.0.1 - - [29/Dec/2024 18:49:39] "POST /api/login HTTP/1.1" 200 -
+2024-12-29 19:48:07,142 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-29 19:48:07,319 - INFO -  * Restarting with stat
+2024-12-29 19:48:38,310 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-29 19:48:38,310 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-29 19:48:38,310 - INFO -  * Restarting with stat
+2024-12-29 19:48:39,047 - WARNING -  * Debugger is active!
+2024-12-29 19:48:39,055 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 19:49:03,159 - INFO - 127.0.0.1 - - [29/Dec/2024 19:49:03] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-29 19:49:03,281 - INFO - Session created: 6047ea08-d3eb-457a-ad0d-c2cbc3318efc for user: 1
+2024-12-29 19:49:03,281 - INFO - 127.0.0.1 - - [29/Dec/2024 19:49:03] "POST /api/login HTTP/1.1" 200 -
+2024-12-29 20:07:59,395 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-29 20:07:59,395 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-29 20:07:59,395 - INFO -  * Restarting with stat
+2024-12-29 20:08:00,250 - WARNING -  * Debugger is active!
+2024-12-29 20:08:00,250 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 20:08:39,007 - INFO - 127.0.0.1 - - [29/Dec/2024 20:08:39] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-29 20:08:39,353 - INFO - Session created: b479fb68-9fc7-485f-a8ee-c1adfcd33a99 for user: 1
+2024-12-29 20:08:39,353 - INFO - 127.0.0.1 - - [29/Dec/2024 20:08:39] "POST /api/login HTTP/1.1" 200 -
+2024-12-29 20:10:10,944 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-29 20:10:11,100 - INFO -  * Restarting with stat
+2024-12-29 20:10:12,320 - WARNING -  * Debugger is active!
+2024-12-29 20:10:12,320 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 20:12:50,801 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-29 20:12:50,975 - INFO -  * Restarting with stat
+2024-12-29 20:12:52,184 - WARNING -  * Debugger is active!
+2024-12-29 20:12:52,190 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 20:13:56,437 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-29 20:13:56,588 - INFO -  * Restarting with stat
+2024-12-29 20:13:57,329 - WARNING -  * Debugger is active!
+2024-12-29 20:13:57,329 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 20:16:41,276 - ERROR - Error logging chat: (sqlite3.IntegrityError) NOT NULL constraint failed: chat_logs.sender
+[SQL: INSERT INTO chat_logs (session_id, message, sender, timestamp) VALUES (?, ?, ?, CURRENT_TIMESTAMP) RETURNING id, timestamp]
+[parameters: ('b479fb68-9fc7-485f-a8ee-c1adfcd33a99', 'Tell me about smartphones', None)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-29 20:16:41,285 - INFO - 127.0.0.1 - - [29/Dec/2024 20:16:41] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-29 20:16:58,312 - INFO - 127.0.0.1 - - [29/Dec/2024 20:16:58] "GET / HTTP/1.1" 200 -
+2024-12-29 20:17:20,831 - ERROR - Error logging chat: (sqlite3.IntegrityError) NOT NULL constraint failed: chat_logs.sender
+[SQL: INSERT INTO chat_logs (session_id, message, sender, timestamp) VALUES (?, ?, ?, CURRENT_TIMESTAMP) RETURNING id, timestamp]
+[parameters: ('b479fb68-9fc7-485f-a8ee-c1adfcd33a99', 'show me electronics', None)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-29 20:17:20,838 - INFO - 127.0.0.1 - - [29/Dec/2024 20:17:20] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-29 21:46:10,293 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-29 21:46:10,293 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-29 21:46:10,299 - INFO -  * Restarting with stat
+2024-12-29 21:46:11,498 - WARNING -  * Debugger is active!
+2024-12-29 21:46:11,506 - INFO -  * Debugger PIN: 138-403-800
+2024-12-29 21:46:50,966 - INFO - 127.0.0.1 - - [29/Dec/2024 21:46:50] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-29 21:46:51,321 - INFO - Session created: 7fb07a2f-41c5-4f73-af94-1101fa9b40dd for user: 1
+2024-12-29 21:46:51,321 - INFO - 127.0.0.1 - - [29/Dec/2024 21:46:51] "POST /api/login HTTP/1.1" 200 -
+2024-12-29 21:53:54,433 - INFO - 127.0.0.1 - - [29/Dec/2024 21:53:54] "GET / HTTP/1.1" 200 -
+2024-12-29 21:56:24,677 - ERROR - Error logging chat: execute
+2024-12-29 21:56:24,678 - INFO - 127.0.0.1 - - [29/Dec/2024 21:56:24] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-29 21:58:30,852 - ERROR - Error logging chat: execute
+2024-12-29 21:58:30,853 - INFO - 127.0.0.1 - - [29/Dec/2024 21:58:30] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-29 21:58:33,051 - ERROR - Error logging chat: execute
+2024-12-29 21:58:33,052 - INFO - 127.0.0.1 - - [29/Dec/2024 21:58:33] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-29 21:58:34,713 - ERROR - Error logging chat: execute
+2024-12-29 21:58:34,714 - INFO - 127.0.0.1 - - [29/Dec/2024 21:58:34] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-29 21:58:48,492 - ERROR - Error logging chat: execute
+2024-12-29 21:58:48,493 - INFO - 127.0.0.1 - - [29/Dec/2024 21:58:48] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-30 12:16:29,192 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-30 12:16:29,192 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-30 12:16:29,192 - INFO -  * Restarting with stat
+2024-12-30 12:16:29,974 - WARNING -  * Debugger is active!
+2024-12-30 12:16:29,981 - INFO -  * Debugger PIN: 138-403-800
+2024-12-30 12:16:36,413 - INFO - 127.0.0.1 - - [30/Dec/2024 12:16:36] "GET / HTTP/1.1" 200 -
+2024-12-30 12:16:36,502 - INFO - 127.0.0.1 - - [30/Dec/2024 12:16:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-30 12:17:14,199 - INFO - 127.0.0.1 - - [30/Dec/2024 12:17:14] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-30 12:17:14,459 - INFO - Session created: 42e2badb-afce-4a76-a36b-7d5e0d9f8d04 for user: 1
+2024-12-30 12:17:14,461 - INFO - 127.0.0.1 - - [30/Dec/2024 12:17:14] "POST /api/login HTTP/1.1" 200 -
+2024-12-30 12:20:06,526 - ERROR - Error logging chat: execute
+2024-12-30 12:20:06,527 - INFO - 127.0.0.1 - - [30/Dec/2024 12:20:06] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-30 12:20:45,456 - ERROR - Error logging chat: execute
+2024-12-30 12:20:45,457 - INFO - 127.0.0.1 - - [30/Dec/2024 12:20:45] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-30 12:20:46,952 - ERROR - Error logging chat: execute
+2024-12-30 12:20:46,952 - INFO - 127.0.0.1 - - [30/Dec/2024 12:20:46] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-30 12:44:58,625 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-30 12:44:58,864 - INFO -  * Restarting with stat
+2024-12-30 12:44:59,889 - WARNING -  * Debugger is active!
+2024-12-30 12:44:59,891 - INFO -  * Debugger PIN: 138-403-800
+2024-12-30 13:09:01,497 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-30 13:09:01,497 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-30 13:09:01,499 - INFO -  * Restarting with stat
+2024-12-30 13:09:02,384 - WARNING -  * Debugger is active!
+2024-12-30 13:09:02,386 - INFO -  * Debugger PIN: 138-403-800
+2024-12-30 13:09:15,640 - INFO - 127.0.0.1 - - [30/Dec/2024 13:09:15] "GET / HTTP/1.1" 200 -
+2024-12-30 13:09:53,304 - INFO - 127.0.0.1 - - [30/Dec/2024 13:09:53] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-30 13:09:58,357 - INFO - 127.0.0.1 - - [30/Dec/2024 13:09:58] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-30 13:09:59,138 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('6bbd88d0-5722-4908-9c4d-6a36c46d66b9', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:09:59,138 - INFO - 127.0.0.1 - - [30/Dec/2024 13:09:59] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:10:01,077 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('a11b755b-45d4-44b5-99cb-0312a536baa0', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:10:01,080 - INFO - 127.0.0.1 - - [30/Dec/2024 13:10:01] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:10:04,096 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('e25a7a53-d600-4159-a82d-b8a26879b994', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:10:04,096 - INFO - 127.0.0.1 - - [30/Dec/2024 13:10:04] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:10:10,434 - INFO - 127.0.0.1 - - [30/Dec/2024 13:10:10] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-30 13:10:16,224 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('2594ddfe-2706-47d5-9183-23d0ea2bc7cb', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:10:16,224 - INFO - 127.0.0.1 - - [30/Dec/2024 13:10:16] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:10:17,194 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('85e1fa1e-b310-429b-9577-3df7a3278b9d', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:10:17,194 - INFO - 127.0.0.1 - - [30/Dec/2024 13:10:17] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:10:18,406 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('951dbad1-6dce-4924-b164-8a8d95c07ee4', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:10:18,406 - INFO - 127.0.0.1 - - [30/Dec/2024 13:10:18] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:10:20,665 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('d6e5afcb-5159-4e31-9daa-97d5ea4b9ca3', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:10:20,665 - INFO - 127.0.0.1 - - [30/Dec/2024 13:10:20] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:14:53,534 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-30 13:14:53,672 - INFO -  * Restarting with stat
+2024-12-30 13:14:54,495 - WARNING -  * Debugger is active!
+2024-12-30 13:14:54,495 - INFO -  * Debugger PIN: 138-403-800
+2024-12-30 13:15:19,054 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:19] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-30 13:15:24,853 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('4b90f7ec-a59e-4b3a-92f4-462b5070ab1d', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:15:24,853 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:24] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:15:27,145 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('6256d836-2d35-4281-9a85-8aa5d949cc0a', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:15:27,145 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:27] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:15:27,787 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('06769a01-29ce-4c04-8e11-4b2d97302084', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:15:27,792 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:27] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:15:27,802 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:27] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-30 13:15:27,813 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:27] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-30 13:15:27,816 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:27] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-30 13:15:28,458 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('938209e1-dd12-497f-8cf6-edd3685db170', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:15:28,463 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:28] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:15:28,926 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('251f9d92-d988-4bfb-b6e7-9cc921ab797e', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:15:28,928 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:28] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:15:29,093 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('8cc664db-543f-47a6-a3df-4ef899fde883', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:15:29,094 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:29] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:15:30,773 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('51a0610e-e842-4237-a124-4be2e9eeae77', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:15:30,773 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:30] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:15:33,115 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('c55b13a2-d2bf-411b-8347-626cccf621fa', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:15:33,115 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:33] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:15:33,700 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('dcfc7527-14f9-42bc-8a90-a7827f62ad1f', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:15:33,700 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:33] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:15:34,242 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('5b423626-b928-4948-8d48-042148f285eb', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:15:34,243 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:34] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:15:34,812 - ERROR - Error creating session: (sqlite3.OperationalError) database is locked
+[SQL: INSERT INTO sessions (session_id, user_id, created_at) VALUES (?, ?, CURRENT_TIMESTAMP) RETURNING created_at]
+[parameters: ('3d615e56-978d-47a6-aaac-26f1238b560f', '1')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-30 13:15:34,814 - INFO - 127.0.0.1 - - [30/Dec/2024 13:15:34] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-12-30 13:15:37,422 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-30 13:15:37,554 - INFO -  * Restarting with stat
+2024-12-30 13:15:38,606 - WARNING -  * Debugger is active!
+2024-12-30 13:15:38,613 - INFO -  * Debugger PIN: 138-403-800
+2024-12-30 13:17:26,858 - ERROR - Database error: execute
+2024-12-30 13:17:26,858 - INFO - 127.0.0.1 - - [30/Dec/2024 13:17:26] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-30 13:17:32,797 - ERROR - Database error: execute
+2024-12-30 13:17:32,799 - INFO - 127.0.0.1 - - [30/Dec/2024 13:17:32] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-30 13:19:55,398 - INFO - 127.0.0.1 - - [30/Dec/2024 13:19:55] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-30 13:19:55,748 - INFO - Session created: bd0ef563-cf2e-4372-aa0c-44fdb9572b95 for user: 1
+2024-12-30 13:19:55,748 - INFO - 127.0.0.1 - - [30/Dec/2024 13:19:55] "POST /api/login HTTP/1.1" 200 -
+2024-12-30 13:28:10,428 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-30 13:28:10,593 - INFO -  * Restarting with stat
+2024-12-30 13:28:11,483 - WARNING -  * Debugger is active!
+2024-12-30 13:28:11,483 - INFO -  * Debugger PIN: 138-403-800
+2024-12-30 13:34:12,401 - INFO -  * Detected change in 'C:\\Users\\Valencia\\OneDrive\\Desktop\\chatbot\\chatbot_ui\\app.py', reloading
+2024-12-30 13:34:12,573 - INFO -  * Restarting with stat
+2024-12-30 13:34:13,612 - WARNING -  * Debugger is active!
+2024-12-30 13:34:13,614 - INFO -  * Debugger PIN: 138-403-800
+2024-12-30 13:45:42,859 - INFO - 127.0.0.1 - - [30/Dec/2024 13:45:42] "[33mOPTIONS /api/chat HTTP/1.1[0m" 404 -
+2024-12-30 13:45:53,701 - INFO - 127.0.0.1 - - [30/Dec/2024 13:45:53] "[33mOPTIONS /api/chat HTTP/1.1[0m" 404 -
+2024-12-30 13:47:16,666 - INFO - 127.0.0.1 - - [30/Dec/2024 13:47:16] "[33mOPTIONS /api/chat HTTP/1.1[0m" 404 -
+2024-12-30 13:48:54,444 - INFO - 127.0.0.1 - - [30/Dec/2024 13:48:54] "[33mPOST /api/chat HTTP/1.1[0m" 404 -
+2024-12-30 13:49:52,356 - INFO - 127.0.0.1 - - [30/Dec/2024 13:49:52] "[31m[1mGET /api/login HTTP/1.1[0m" 405 -
+2024-12-30 13:50:36,639 - INFO - 127.0.0.1 - - [30/Dec/2024 13:50:36] "[31m[1mGET /api/login HTTP/1.1[0m" 405 -
+2024-12-30 13:50:45,327 - INFO - 127.0.0.1 - - [30/Dec/2024 13:50:45] "[31m[1mGET /api/login HTTP/1.1[0m" 405 -
+2024-12-30 13:51:56,099 - INFO - 127.0.0.1 - - [30/Dec/2024 13:51:56] "POST /chat HTTP/1.1" 200 -
+2024-12-30 13:52:33,217 - INFO - 127.0.0.1 - - [30/Dec/2024 13:52:33] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-30 13:52:33,507 - INFO - 127.0.0.1 - - [30/Dec/2024 13:52:33] "POST /chat HTTP/1.1" 200 -
+2024-12-30 13:52:44,867 - INFO - 127.0.0.1 - - [30/Dec/2024 13:52:44] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-30 13:52:45,207 - INFO - 127.0.0.1 - - [30/Dec/2024 13:52:45] "POST /chat HTTP/1.1" 200 -
+2024-12-30 13:53:41,405 - INFO - 127.0.0.1 - - [30/Dec/2024 13:53:41] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-30 13:53:41,755 - INFO - 127.0.0.1 - - [30/Dec/2024 13:53:41] "POST /chat HTTP/1.1" 200 -
+2024-12-30 16:46:42,708 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-30 16:46:42,708 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-30 16:46:42,712 - INFO -  * Restarting with stat
+2024-12-30 16:46:43,283 - WARNING -  * Debugger is active!
+2024-12-30 16:46:43,289 - INFO -  * Debugger PIN: 138-403-800
+2024-12-30 16:47:02,236 - INFO - 127.0.0.1 - - [30/Dec/2024 16:47:02] "GET / HTTP/1.1" 200 -
+2024-12-30 16:47:12,708 - INFO - 127.0.0.1 - - [30/Dec/2024 16:47:12] "OPTIONS /api/login HTTP/1.1" 200 -
+2024-12-30 16:47:12,933 - INFO - Session created: e5e5847f-300b-4933-9116-28e404714182 for user: 1
+2024-12-30 16:47:12,933 - INFO - 127.0.0.1 - - [30/Dec/2024 16:47:12] "POST /api/login HTTP/1.1" 200 -
+2024-12-30 16:47:20,945 - INFO - 127.0.0.1 - - [30/Dec/2024 16:47:20] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-30 16:47:21,244 - INFO - 127.0.0.1 - - [30/Dec/2024 16:47:21] "POST /chat HTTP/1.1" 200 -
+2024-12-30 16:47:33,110 - INFO - 127.0.0.1 - - [30/Dec/2024 16:47:33] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-30 16:47:33,455 - INFO - 127.0.0.1 - - [30/Dec/2024 16:47:33] "POST /chat HTTP/1.1" 200 -
+2024-12-30 16:48:25,269 - INFO - 127.0.0.1 - - [30/Dec/2024 16:48:25] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-30 16:48:25,609 - INFO - 127.0.0.1 - - [30/Dec/2024 16:48:25] "POST /chat HTTP/1.1" 200 -
